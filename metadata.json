@@ -1,0 +1,10 @@
+{
+  "name": "Remix Hadith and Quran AI",
+  "description": "An intelligent platform providing instant access to authentic Hadith and Quranic teachings through AI-powered search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
